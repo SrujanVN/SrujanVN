@@ -1,82 +1,83 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<h1 align="center">Hi <span style="display:inline-block; animation:wave 1.5s infinite; transform-origin:70% 70%;">👋</span>, I'm Srujan VN</h1>
 
-<h1 align="center">👋 Hi, I'm **SRUJAN VN**!</h1>
-<h3 align="center">🌟 A passionate Frontend Developer from India</h3>
 
-<p align="center">
-  <img align="right" width="400" src="https://www.euroschoolindia.com/wp-content/uploads/2023/06/facts-about-space.jpg" alt="Coding Animation">
-</p>
+                                  
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
----
 
-### About Me
-- 🌱 Currently learning **FLUTTER**.
-- 📫 Reach me: [srujanvn14@gmail.com](mailto:srujanvn14@gmail.com).
-- ⚽ Fun fact: I'm good at football!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurx75&label=Profile%20views&color=0e75b6&style=flat" alt="mayurx75" /> </p>
 
----
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="center">📱 Connect with Me:</h3>
-<p align="center">
-  <a href="https://instagram.com/srujan_vn14" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/srujan_vn14" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/srujan-vn/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-</p>
+- 🚀 AI Engineer | Full-Stack Developer
+- 💡 Passionate about building intelligent solutions and seamless user experiences.
+- 📊 Specializing in AI/ML models, data-driven applications, and frontend integration with React.
+- 🌟 Open source advocate and lifelong learner.
+- 📫 Let's collaborate: (srujanvn14@gmail.com)
 
----
 
-<h3 align="left">🛠️ Technologies I Use:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter_logo_2.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-</p>
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  
+  <a href="https://www.instagram.com/srujan_vn14" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram Logo" />
+</a>
 
----
+  <a href="srujanvn14@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo" />
+</a>
 
-<h3 align="center">📊 My GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrujanVN&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrujanVN&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrujanVN&theme=dark" alt="Streak Stats" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SrujanVN&theme=dark" alt="Trophy" />
-  </a>
-</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitter/gitter-plain.svg" height="40" alt="gitter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+</div> 
 
-<h3 align="center">🎉 Thanks for visiting my profile!</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrujanVN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrujanVN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+## ᴡᴀᴛᴄʜ ᴍʏ ꜱɴᴀᴋᴇ ᴇᴀᴛ ᴀʟʟ ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ
+<img src="https://raw.githubusercontent.com/Mayurx75/Mayurx75/output/snake.svg" alt="Snake animation" />
